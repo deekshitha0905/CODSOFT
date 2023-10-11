@@ -31,7 +31,7 @@ PCA TRANSFORMATION
 DATA MINING AND SPLITTING
 KNN CLASSIFICATION
 SUMMARY 
-CONCLUSION
+CONCLSION
 
 
-TASK 
+Credit card dataset is available from - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
